@@ -1,5 +1,3 @@
-# UrbanSound8K-Classification-Generation
-
 ## About this project
 Key: use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
 
