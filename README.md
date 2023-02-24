@@ -1,9 +1,10 @@
 # UrbanSound8K-Classification-Generation
 
 ## About this project
+Key: use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
 
 ### Audio classification on UrbanSound8K dataset
-CNN model that can classify 10 different sounds with a fairly high accuracy. The key is to use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
+CNN model which can classify 10 different sounds with a fairly high accuracy.
 
 ### Audio generation using CVAE
 Convolutional Variational Autoencoder (CVAE) implemented to denoise MFCCs vectors and generation of new data samples.
@@ -17,8 +18,9 @@ Librosa: https://librosa.org/doc/latest/install.html;
 
 Numpy:https://numpy.org/install/;
 
-MatPlotLib: https://matplotlib.org/stable/users/installing/index.html;
+MatPlotLib: https://matplotlib.org/stable/users/installing/index.html.
 
 ## Tools
 Anaconda Jupyter Notebook: https://jupyter.org/;
-Google Colab: https://colab.research.google.com/?utm_source=scs-index;
+
+Google Colab: https://colab.research.google.com/?utm_source=scs-index.
