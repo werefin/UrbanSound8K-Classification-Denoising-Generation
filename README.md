@@ -6,7 +6,7 @@ UrbanSound8K dataset: https://urbansounddataset.weebly.com/urbansound8k.html
 ### Audio classification on UrbanSound8K dataset
 CNN model which can classify 10 different sounds with a fairly high accuracy.
 
-### Audio generation using CVAE
+### Audio denoising & generation using CVAE
 Convolutional Variational Autoencoder (CVAE) implemented to denoise MFCCs vectors and generation of new data samples.
 
 ## Dependencies and setup
