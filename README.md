@@ -18,7 +18,7 @@ TensorFlow: https://www.tensorflow.org/install
 
 Librosa: https://librosa.org/doc/latest/install.html
 
-Numpy:https://numpy.org/install/
+Numpy: https://numpy.org/install/
 
 MatPlotLib: https://matplotlib.org/stable/users/installing/index.html
 
