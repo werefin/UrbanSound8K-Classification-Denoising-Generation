@@ -1,5 +1,5 @@
 ## About this project
-Cognition & Computation (UniPD): final project
+Cognition & Computation (UniPD): final project.
 
 Key: use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
 
