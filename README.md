@@ -3,7 +3,7 @@ Cognition & Computation (UniPD): final project.
 
 Key: use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
 
-UrbanSound8K dataset: https://urbansounddataset.weebly.com/urbansound8k.html 
+[UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html ) dataset
 
 ### Audio classification on UrbanSound8K dataset
 CNN model which can classify 10 different sounds with a fairly high accuracy.
@@ -14,15 +14,15 @@ Convolutional Variational Autoencoder (CVAE) implemented to denoise MFCCs vector
 ## Dependencies and setup
 This requires the use of Jupyter Notebook. You can use either the Anaconda version or Google Colab to run this. Note that if you are using the local machine Anaconda version, you do need to install the necessary modules/dependencies.
 
-TensorFlow: https://www.tensorflow.org/install
+* [TensorFlow](https://www.tensorflow.org/install);
 
-Librosa: https://librosa.org/doc/latest/install.html
+* [Librosa](https://librosa.org/doc/latest/install.html);
 
-Numpy: https://numpy.org/install/
+* [Numpy](https://numpy.org/install/);
 
-MatPlotLib: https://matplotlib.org/stable/users/installing/index.html
+* [MatPlotLib](https://matplotlib.org/stable/users/installing/index.html).
 
 ## Tools
-Anaconda Jupyter Notebook: https://jupyter.org/
+* [Jupyter](https://jupyter.org/) Notebook;
 
-Google Colab: https://colab.research.google.com/?utm_source=scs-index
+* [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
