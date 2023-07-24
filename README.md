@@ -27,4 +27,4 @@ This requires the use of Jupyter Notebook. You can use either the Anaconda versi
 
 * [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
 
-Evaluation: ⭐⭐⭐⭐⭐/5
+Evaluation: 10/10
