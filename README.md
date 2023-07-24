@@ -3,7 +3,7 @@ Cognition & Computation (UniPD): final project.
 
 Key: use Mel-Frequency Cesptral Coefficients (MFCCs) to turn the audio points into a spatial representation.
 
-[UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html ) dataset
+Dataset: [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html).
 
 ### Audio classification on UrbanSound8K dataset
 CNN model which can classify 10 different sounds with a fairly high accuracy.
@@ -23,6 +23,8 @@ This requires the use of Jupyter Notebook. You can use either the Anaconda versi
 * [MatPlotLib](https://matplotlib.org/stable/users/installing/index.html).
 
 ## Tools
-* [Jupyter](https://jupyter.org/) Notebook;
+* [Jupyter Notebook](https://jupyter.org/);
 
 * [Google Colab](https://colab.research.google.com/?utm_source=scs-index).
+
+Evaluation: ⭐⭐⭐⭐⭐/5
